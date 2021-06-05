@@ -1,2 +1,2 @@
 # reverie
-Create timelapse videos of your screen and webcam with minimal resource usage.
+A webcam and screen recorder that makes timelapse vidoes and lives in your task bar.
